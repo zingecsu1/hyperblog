@@ -1,6 +1,3 @@
-no 
-hola 
-xD
-f
-s
-f
+cambie todo 
+ linea 2 
+linea 3 
